@@ -1,0 +1,9 @@
+#Fichiers .class
+*.class
+#Package FIles
+*.jar
+*.war
+*.ear
+# Divers
+toto.txt
+*~
